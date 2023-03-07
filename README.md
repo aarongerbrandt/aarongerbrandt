@@ -8,11 +8,10 @@
 ---
 
 ### 💾 I love using ...
-<img src="resources/icons/python.svg" alt="python" width="25" align="center">**Python**
-<img src="resources/icons/cs.svg" alt="C-Sharp" width="25" align="center"> **C**#
-<img src="resources/icons/java.svg" alt="python" width="25" align="center"> **Java**
-<img src="resources/icons/javascript.svg" alt="javascript" width="25" align="center"> **JavaScript**
-
+ - <img src="resources/icons/python.svg" alt="python" width="25" align="center">**Python**
+ - <img src="resources/icons/cs.svg" alt="C-Sharp" width="25" align="center"> **C#**
+ - <img src="resources/icons/java.svg" alt="python" width="25" align="center"> **Java**
+ - <img src="resources/icons/javascript.svg" alt="javascript" width="25" align="center"> **JavaScript**
 
 ---
 
