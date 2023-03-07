@@ -1,14 +1,3 @@
-<style>
-    .icon {
-        vertical-align: top;
-        text-align: center;
-        max-height: 25px;
-        background-color: rgba(127, 127, 127, 0.3);
-        border-radius: 90%;
-        margin-right: 3px;
-    }
-</style>
-
 ![Hello There! I'm Aaron Gerbrandt](header.png)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faarongerbrandt&labelColor=%23f47373&countColor=%23697689&style=flat&labelStyle=upper)
@@ -18,21 +7,21 @@
 
 ---
 
-#### 💾 I love using ...
-<img src="resources/icons/python.svg" alt="python" class="icon">**Python**
-<img src="resources/icons/cs.svg" alt="C-Sharp" class="icon">**C**#
-<img src="resources/icons/java.svg" alt="python" class="icon">**Java**
-<img src="resources/icons/javascript.svg" alt="javascript" class="icon">**JavaScript**
+### 💾 I love using ...
+<img src="resources/icons/python.svg" alt="python" width="25" align="center">**Python**
+<img src="resources/icons/cs.svg" alt="C-Sharp" width="25" align="center"> **C**#
+<img src="resources/icons/java.svg" alt="python" width="25" align="center"> **Java**
+<img src="resources/icons/javascript.svg" alt="javascript" width="25" align="center"> **JavaScript**
 
 
 ---
 
-#### 🌱 I’m currently learning ...
-<img src="resources/icons/kotlin.svg" alt="kotlin" class="icon">**Kotlin**
-<img src="resources/icons/android-studio.svg" alt="android studio" class="icon">**Android Development**
+### 🌱 I’m currently learning ...
+<img src="resources/icons/kotlin.svg" alt="kotlin" width="25" align="center"> **Kotlin**
+<img src="resources/icons/android-studio.svg" alt="android studio" width="25" align="center"> **Android Development**
 🧪&nbsp;**Quality Assurance & Testing**
 
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarongerbrandt&show_icons=true&hide=issues,stars&theme=transparent)
+![Aaron Gerbrandt's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarongerbrandt&show_icons=true&hide=issues,stars&theme=transparent)
 
 <!--
 **aarongerbrandt/aarongerbrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
