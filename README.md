@@ -1,4 +1,4 @@
-![Hello There! I'm Aaron Gerbrandt](header.png)
+![Hello There! I'm Aaron Gerbrandt](resources/banner/banner.png)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faarongerbrandt&labelColor=%23f47373&countColor=%23697689&style=flat&labelStyle=upper)
 
