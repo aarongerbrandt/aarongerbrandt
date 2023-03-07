@@ -2,10 +2,10 @@
     .icon {
         vertical-align: top;
         text-align: center;
-        max-height: 1.5em;
+        max-height: 25px;
         background-color: rgba(127, 127, 127, 0.3);
         border-radius: 90%;
-        margin-right: .25em;
+        margin-right: 3px;
     }
 </style>
 
@@ -28,9 +28,9 @@
 ---
 
 #### 🌱 I’m currently learning ...
-<img src="resources/icons/kotlin.svg" alt="kotlin" class="icon">Kotlin
-<img src="resources/icons/android-studio.svg" alt="android studio" class="icon">Android Development
-🧪Quality Assurance & Testing
+<img src="resources/icons/kotlin.svg" alt="kotlin" class="icon">**Kotlin**
+<img src="resources/icons/android-studio.svg" alt="android studio" class="icon">**Android Development**
+🧪&nbsp;**Quality Assurance & Testing**
 
 ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarongerbrandt&show_icons=true&hide=issues,stars&theme=transparent)
 
